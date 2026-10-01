@@ -17,4 +17,4 @@ lista_nomi_cognomi= ["Mario Rossi", "Gianni Verdi"]
 nuova_lista = lista_studenti # Non copia la lista
 # Crea solamente un "alias", in memoria i dati non sono stati duplicati
 
-copia_della_lista=list(nuova_lista)
+copia_della_lista=list(nuova_lista) # Per una vera copia uso la funzione list()
